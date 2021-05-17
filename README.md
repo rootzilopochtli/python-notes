@@ -2,7 +2,7 @@
 > _Los sysadmins nos reinventamos constantemente, siempre estamos investigando y aprendiendo._
 ___
 
-- Quick solves
+- [Quick solves](https://github.com/rootzilopochtli/python-notes/blob/main/quick_solves.md)
 ___
 1. Getting started
    - [my-script.py](https://github.com/rootzilopochtli/python-notes/blob/main/getting_started/my-script.py) 
