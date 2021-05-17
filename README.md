@@ -1,6 +1,9 @@
 # Python Notes
 > _Los sysadmins nos reinventamos constantemente, siempre estamos investigando y aprendiendo._
 ___
+
+- Quick solves
+___
 1. Getting started
    - [my-script.py](https://github.com/rootzilopochtli/python-notes/blob/main/getting_started/my-script.py) 
    - [python_script.py](https://github.com/rootzilopochtli/python-notes/blob/main/getting_started/python_script.py)
