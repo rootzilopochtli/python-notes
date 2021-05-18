@@ -25,10 +25,10 @@ ___
     15. File Handling → [files.py](https://github.com/rootzilopochtli/python-notes/blob/main/programming_in_python/files.py) 
     16. Error Handling → [error_handling.py](https://github.com/rootzilopochtli/python-notes/blob/main/programming_in_python/error_handling.py)
 3. Programming Project
-   - Library system → Library management system
-       - book.py → Defines the class (Book), with its characteristics.
-       - app.py → Defines the function menu and is the front end of the system.
-       - my_functions.py → Defines the functions to be performed
+   - **Library system** → Library management system
+       - [book.py](https://github.com/rootzilopochtli/python-notes/blob/main/programming_project/library_system/book.py) → Defines the class (Book), with its characteristics.
+       - [app.py](https://github.com/rootzilopochtli/python-notes/blob/main/programming_project/library_system/app.py) → Defines the function menu and is the front end of the system.
+       - [my_functions.py](https://github.com/rootzilopochtli/python-notes/blob/main/programming_project/library_system/my_functions.py) → Defines the functions to be performed
        ```python
        $ python app.py
        Press the specific button for that action
