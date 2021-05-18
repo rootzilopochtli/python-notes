@@ -1,5 +1,5 @@
 # Python Notes
-> _Los sysadmins nos reinventamos constantemente, siempre estamos investigando y aprendiendo._
+> _As sysadmins we are constantly reinventing ourselves, we are always researching and learning._
 ___
 
 - [Quick solves](https://github.com/rootzilopochtli/python-notes/blob/main/quick_solves.md)
